@@ -1,0 +1,15 @@
+body {background-color: #daf4f5;}
+
+hr {border-color: #3dbdc2;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 3px;
+    height: 0px;
+    width: 80%}
+
+img {width: 200px}
+
+h1 {color: #007065;}
+h3 {color: #007065;}
+
+table [text-align: justify;]
